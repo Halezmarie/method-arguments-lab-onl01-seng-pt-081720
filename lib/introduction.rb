@@ -1,1 +1,4 @@
-Learn test
+# lib/introduction.rb
+
+def introduction
+end
